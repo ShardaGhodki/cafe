@@ -10,13 +10,13 @@ html,body{
 #main{
     min-height: 100%;
     width: 100%;
-    background-color: rgb(228, 99, 52);
+    background-color: rgb(228, 99, 52)
 
 }
 #contant{
-    min-height: 50vh;
+    min-height: 50vh
     width: 100%;
-    background-color: red;
+    background-color red;
     background-image:url(https://images.unsplash.com/photo-1611065855673-fe8ae91ff456?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=725&q=80);
     background-position: center;
 }
